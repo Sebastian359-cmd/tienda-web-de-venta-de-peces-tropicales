@@ -1,0 +1,544 @@
+[
+  {
+    "id": "mascota-01",
+    "titulo": "Ajolote",
+    "imagen": "./img/mascotas/01.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 10,
+    "tipo": "Agua dulce",
+    "tamaño": "mediano",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+  },
+  {
+    "id": "mascota-02",
+    "titulo": "Ancistrus",
+    "imagen": "./img/mascotas/02.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 14,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+  },
+  {
+    "id": "mascota-03",
+    "titulo": "Betta Halfmoon",
+    "imagen": "./img/mascotas/03.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 35,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "territoriales",
+    "experiencia": "intermedio"
+  },
+  {
+    "id": "mascota-04",
+    "titulo": "Caracol Helena",
+    "imagen": "./img/mascotas/04.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 4,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+  },
+  {
+    "id": "mascota-05",
+    "titulo": "Caraco lManzana",
+    "imagen": "./img/mascotas/05.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 3,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+  },
+  {
+    "id": "mascota-06",
+    "titulo": "Escalar",
+    "imagen": "./img/mascotas/06.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 12,
+    "tipo": "Agua dulce",
+    "tamaño": "mediano",
+    "compatibilidad": "pacíficos",
+    "experiencia": "intermedio"
+  },
+  {
+    "id": "mascota-07",
+    "titulo": "GambaRoja",
+    "imagen": "./img/mascotas/07.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 4,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+  },
+  {
+    "id": "mascota-08",
+    "titulo": "Goldfish",
+    "imagen": "./img/mascotas/08.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 15,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+  },
+  {
+    "id": "mascota-09",
+    "titulo": "CarpaKoi",
+    "imagen": "./img/mascotas/09.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 200,
+    "tipo": "Agua dulce",
+    "tamaño": "grande",
+    "compatibilidad": "pacíficos",
+    "experiencia": "intermedio"
+  },
+  {
+    "id": "mascota-10",
+    "titulo": "PezPayaso",
+    "imagen": "./img/mascotas/10.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 160,
+    "tipo": "Agua salada",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "intermedio"
+  },
+  {
+    "id": "mascota-11",
+    "titulo": "Tortuga",
+    "imagen": "./img/mascotas/11.jpg",
+    "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+    },
+    "precio": 40,
+    "tipo": "terrestre",
+    "tamaño": "mediano",
+    "compatibilidad": "ninguna",
+    "experiencia": "principiante"
+  },
+  {
+    "id": "mascota-12",
+    "titulo": "Guppy",
+    "imagen": "./img/mascotas/12.jpg",
+    "categoria": {
+        "nombre": "Mascotas",
+        "id": "mascotas"
+    },
+    "precio": 4,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+},
+{
+    "id": "mascota-13",
+    "titulo": "Tetra Neón",
+    "imagen": "./img/mascotas/13.jpg",
+    "categoria": {
+        "nombre": "Mascotas",
+        "id": "mascotas"
+    },
+    "precio": 2.5,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+},
+{
+    "id": "mascota-14",
+    "titulo": "Disco",
+    "imagen": "./img/mascotas/14.jpg",
+    "categoria": {
+        "nombre": "Mascotas",
+        "id": "mascotas"
+    },
+    "precio": 40,
+    "tipo": "Agua dulce",
+    "tamaño": "grande",
+    "compatibilidad": "territoriales",
+    "experiencia": "avanzado"
+},
+{
+    "id": "mascota-15",
+    "titulo": "Betta Blue",
+    "imagen": "./img/mascotas/15.jpg",
+    "categoria": {
+        "nombre": "Mascotas",
+        "id": "mascotas"
+    },
+    "precio": 55,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "territoriales",
+    "experiencia": "intermedio"
+},
+{
+    "id": "mascota-16",
+    "titulo": "Platy",
+    "imagen": "./img/mascotas/16.jpg",
+    "categoria": {
+        "nombre": "Mascotas",
+        "id": "mascotas"
+    },
+    "precio": 2,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+},
+{
+    "id": "mascota-17",
+    "titulo": "Ramirezi",
+    "imagen": "./img/mascotas/17.jpg",
+    "categoria": {
+        "nombre": "Mascotas",
+        "id": "mascotas"
+    },
+    "precio": 45,
+    "tipo": "Agua dulce",
+    "tamaño": "mediano",
+    "compatibilidad": "pacíficos",
+    "experiencia": "intermedio"
+},
+{
+    "id": "mascota-18",
+    "titulo": "Cebra",
+    "imagen": "./img/mascotas/18.jpg",
+    "categoria": {
+        "nombre": "Mascotas",
+        "id": "mascotas"
+    },
+    "precio": 9,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+},
+{
+    "id": "mascota-19",
+    "titulo": "Gourami",
+    "imagen": "./img/mascotas/19.jpg",
+    "categoria": {
+        "nombre": "Mascotas",
+        "id": "mascotas"
+    },
+    "precio": 15,
+    "tipo": "Agua dulce",
+    "tamaño": "mediano",
+    "compatibilidad": "territoriales",
+    "experiencia": "intermedio"
+},
+{
+    "id": "mascota-20",
+    "titulo": "Rasboras",
+    "imagen": "./img/mascotas/20.jpg",
+    "categoria": {
+        "nombre": "Mascotas",
+        "id": "mascotas"
+    },
+    "precio": 4,
+    "tipo": "Agua dulce",
+    "tamaño": "pequeño",
+    "compatibilidad": "pacíficos",
+    "experiencia": "principiante"
+},
+
+{
+  "id": "mascota-21",
+  "titulo": "Cirujano Azul",
+  "imagen": "./img/mascotas/21.jpg",
+  "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+  },
+  "precio": 210,
+  "tipo": "Agua salada",
+  "tamaño": "pequeño",
+  "compatibilidad": "pacíficos",
+  "experiencia": "avanzado"
+},
+{
+  "id": "mascota-22",
+  "titulo": "Rasboras",
+  "imagen": "./img/mascotas/22.jpg",
+  "categoria": {
+      "nombre": "Mascotas",
+      "id": "mascotas"
+  },
+  "precio": 220,
+  "tipo": "Agua salada",
+  "tamaño": "mediano",
+  "compatibilidad": "pacíficos",
+  "experiencia": "intermedio"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "Accesorios-01",
+    "titulo": "Sifon",
+    "imagen": "./img/accesorios/01.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 30,
+    "tipo": "dispositivo",
+    "cantidad": "pequeño"
+},
+{
+    "id": "Accesorios-02",
+    "titulo": "Bomba de Aire",
+    "imagen": "./img/accesorios/02.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 30,
+    "tipo": "dispositivo",
+    "cantidad": "mediano"
+},
+{
+    "id": "Accesorios-03",
+    "titulo": "Pack de Decoración",
+    "imagen": "./img/accesorios/03.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 100,
+    "tipo": "decoracion",
+    "cantidad": "grande"
+},
+{
+    "id": "Accesorios-04",
+    "titulo": "Grava 1k",
+    "imagen": "./img/accesorios/04.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 4.5,
+    "tipo": "decoracion",
+    "cantidad": "pequeño"
+},
+{
+    "id": "Accesorios-05",
+    "titulo": "Piedritas 1K",
+    "imagen": "./img/accesorios/05.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 3.5,
+    "tipo": "decoracion",
+    "cantidad": "pequeño"
+},
+{
+    "id": "Accesorios-06",
+    "titulo": "Casa para Pez",
+    "imagen": "./img/accesorios/06.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 50,
+    "tipo": "decoracion",
+    "cantidad": "mediano"
+},
+{
+    "id": "Accesorios-07",
+    "titulo": "Bomba de Aire Volcánica",
+    "imagen": "./img/accesorios/07.jpg",
+    "categoria": {
+        "nombre": "Accesorios",
+        "id": "accesorios"
+    },
+    "precio": 35.50,
+    "tipo": "decoracion",
+    "cantidad": "grande"
+},
+{
+  "id": "Accesorios-08",
+  "titulo": "Alimento Forma Escama",
+  "imagen": "./img/accesorios/08.jpg",
+  "categoria": {
+      "nombre": "Accesorios",
+      "id": "mediano"
+  },
+  "precio": 19.90,
+  "tipo": "alimento",
+  "cantidad": "grande"
+},
+{
+  "id": "Accesorios-09",
+  "titulo": "Alimento Pellets",
+  "imagen": "./img/accesorios/09.jpg",
+  "categoria": {
+      "nombre": "Accesorios",
+      "id": "accesorios"
+  },
+  "precio": 14.80,
+  "tipo": "alimento",
+  "cantidad": "mediano"
+},
+{
+  "id": "Accesorios-10",
+  "titulo": "Alimento Bettas",
+  "imagen": "./img/accesorios/10.jpg",
+  "categoria": {
+      "nombre": "Accesorios",
+      "id": "accesorios"
+  },
+  "precio": 14.80,
+  "tipo": "alimento",
+  "cantidad": "mediano"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "Otros_01",
+    "titulo": "Cola de zorro",
+    "imagen": "./img/otros/01.jpg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 2.9,
+    "dificultad": "principiante"
+  },
+  {
+    "id": "Otros_02",
+    "titulo": "Hydrocotile Versillata",
+    "imagen": "./img/otros/02.jpg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 1.5,
+    "dificultad": "principiante"
+  },
+  {
+    "id": "Otros_03",
+    "titulo": "Ambulia",
+    "imagen": "./img/otros/03.jpg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 2,
+    "dificultad": "principiante"
+  },
+  {
+    "id": "Otros_04",
+    "titulo": "Sagittaria Subulata",
+    "imagen": "./img/otros/04.jpg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 3,
+    "dificultad": "intermedio"
+  },
+  {
+    "id": "Otros_05",
+    "titulo": "Echinodorus Amazonicus",
+    "imagen": "./img/otros/05.jpg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 12,
+    "dificultad": "avanzado"
+  },
+  {
+    "id": "Otros_06",
+    "titulo": "Anubia Barteri",
+    "imagen": "./img/otros/06.jpg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 5,
+    "dificultad": "intermedio"
+  },
+  {
+    "id": "Otros_07",
+    "titulo": "Ceratophy llundemersum",
+    "imagen": "./img/otros/07.jpg",
+    "categoria": {
+      "nombre": "Otros",
+      "id": "otros"
+    },
+    "precio": 10,
+    "dificultad": "avanzado"
+  }
+
+]
